@@ -1,0 +1,459 @@
+Indicator,S.No.,Parameters,Type,District - _Delhi,District - Central,District - East,District - New Delhi,District - North,District - North East,District - North West,District - Shahdara,District - South,District - South East,District - South West,District - West
+M1 [Ante Natal Care Services ANC],1.1,Total number of pregnant women Registered for ANC,TOTAL,734513,87149,38144,75654,71234,39991,77833,113962,31657,45315,30063,123511
+M1 [Ante Natal Care Services ANC],1.1.1,Of which Number registered within first trimester (within 12 weeks),TOTAL,230198,25966,10369,15488,17906,14459,30795,19185,11973,21826,14441,47790
+M1 [Ante Natal Care Services ANC],1.2,Number of Pregnant women registered under JSY,TOTAL,20126,3661,836,1199,1624,952,2885,1375,364,1104,1480,4646
+M1 [Ante Natal Care Services ANC],1.3,Number of pregnant women received 3 ANC check ups during pregnancy,TOTAL,425730,54090,19771,48423,36282,23812,60753,45620,18268,24319,21403,72989
+M1 [Ante Natal Care Services ANC],1.4.1,Number of pregnant women given TT1 during current pregnancy,TOTAL,213226,23807,11770,17219,19631,14991,28261,24049,11516,16744,14628,30610
+M1 [Ante Natal Care Services ANC],1.4.2,Number of pregnant women given TT2 or Booster during current pregnancy,TOTAL,192799,23466,12213,14590,18780,14082,24783,19019,10781,15628,13968,25489
+M1 [Ante Natal Care Services ANC],1.5,Total number of pregnant women given 100 IFA tablets,TOTAL,403138,37294,16963,50110,40798,20619,51879,42994,16351,17564,20536,88030
+M1 [Ante Natal Care Services ANC],1.6.1,Number of new cases of Hypertension (BP>140/90) detected in Pregnant women at the institution,TOTAL,15515,1020,821,2067,749,283,2071,1019,1027,364,2203,3891
+M1 [Ante Natal Care Services ANC],1.6.2,Number of Eclampsia cases managed during delivery,TOTAL,1159,297,17,219,44,12,127,141,50,19,11,222
+M1 [Ante Natal Care Services ANC],1.7.1,Number of Pregnant women with anaemia i.e. Hb level<11 (tested cases),TOTAL,224139,24141,11108,26734,22999,12982,42598,20450,6343,14020,18841,23923
+M1 [Ante Natal Care Services ANC],1.7.2,Number of Pregnant women having severe anaemia (Hb<7) treated at institution,TOTAL,12355,559,328,1404,935,204,2554,2209,279,229,1584,2070
+M1 [Ante Natal Care Services ANC],1.8,Number of pregnancy test kits used at SC level,TOTAL,19694,811,771,1676,810,1474,585,1448,5482,5175,308,1154
+M2 [Deliveries],2.1.1.a,Number of deliveries conducted at Home and attended by trained SBA(i.e. Doctor or Nurse or ANM),TOTAL,1055,0,152,10,9,0,70,0,369,404,5,36
+M2 [Deliveries],2.1.1.b,Number of deliveries conducted at Home and attended by non trained SBA (i.e. trained TBA or Relatives etc.),TOTAL,12023,747,489,335,2566,1891,1179,481,1104,961,731,1539
+M2 [Deliveries],2.1.1.c,Total number of deliveries conducted at Home and attended by trained or non-trained SBA (i.e. sum of 2.1.1.a and 2.1.1.b),TOTAL,13078,747,641,345,2575,1891,1249,481,1473,1365,736,1575
+M2 [Deliveries],2.1.2,Number of newborns visited within 24 hours of delivery for deliveries conducted at home,TOTAL,6583,527,401,206,1268,686,355,370,620,720,426,1004
+M2 [Deliveries],2.1.3,Number of mothers paid JSY incentive for deliveries conducted at home,TOTAL,46,10,0,19,0,1,1,0,5,2,8,0
+M2 [Deliveries],2.2,Deliveries conducted at Public Institutions (Including C-Sections),TOTAL,162907,26633,6789,33688,5924,4511,25275,27052,4207,2930,7978,17920
+M2 [Deliveries],2.2.1,"Out of 2.2, Number discharged under 48 hours of delivery",TOTAL,76202,15245,3689,23603,2287,3339,2960,4597,2613,1644,6039,10186
+M2 [Deliveries],2.2.2.a,Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,8223,1472,419,665,1270,157,1372,555,304,159,922,928
+M2 [Deliveries],2.2.2.b,Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,2615,625,371,444,1,34,74,54,199,93,597,123
+M2 [Deliveries],2.2.2.c,Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M2 [Deliveries],2.3,Deliveries conducted at Private Institutions (Including C-Sections),TOTAL,32898,6892,2593,137,689,156,5683,2473,3428,4014,1487,5346
+M2 [Deliveries],2.3.1.a,Number of mothers paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,0,0,0,0,NA,NA,0,0,0,0,0,0
+M2 [Deliveries],2.3.1.b,Number of ASHAs paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,0,0,0,0,NA,NA,0,0,0,0,0,0
+M2 [Deliveries],2.3.1.c,Number of cases of deliveries conducted at accredited Private Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0,0,0,0,NA,NA,0,0,0,0,0,0
+M3 [Number of Caesarean C-Section deliveries performed at],3.1.1,Number of Caesarean (C-Section) deliveries performed at PHCs (Primary Health Centre),TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M3 [Number of Caesarean C-Section deliveries performed at],3.1.2,Number of Caesarean (C-Section) deliveries performed at CHCs (Community Health Centre),TOTAL,22,0,NA,22,NA,0,0,0,NA,0,NA,0
+M3 [Number of Caesarean C-Section deliveries performed at],3.1.3,Number of Caesarean (C-Section) deliveries performed at SDHs (Sub-divisional Hospital) or DHs (District Hospital),TOTAL,37286,6531,1313,8776,376,436,5718,6540,1332,353,1363,4548
+M3 [Number of Caesarean C-Section deliveries performed at],3.1.4,Number of Caesarean (C-Section) deliveries performed at other State owned public institutions,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M3 [Number of Caesarean C-Section deliveries performed at],3.1.5,"Total Number of Caesarean (C-Section) deliveries performed at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 3.1.1 to 3.1.4)",TOTAL,37308,6531,1313,8798,376,436,5718,6540,1332,353,1363,4548
+M3 [Number of Caesarean C-Section deliveries performed at],3.2,No. of C-section deliveries performed at Private facilities,TOTAL,19498,4140,1691,75,245,107,3707,1559,1612,2087,909,3366
+M4 [Pregnancy outcome & weight of new-born],4.1.1.a,Number of male live births,TOTAL,108814,17899,5206,17697,4704,3312,16747,15736,4845,4380,5381,12907
+M4 [Pregnancy outcome & weight of new-born],4.1.1.b,Number of female live births,TOTAL,98344,16082,4711,16019,4425,3221,15170,13873,4305,4002,4757,11779
+M4 [Pregnancy outcome & weight of new-born],4.1.1.c,Total number of male and female live births (4.1.1.a and 4.1.1.b),TOTAL,207158,33981,9917,33716,9129,6533,31917,29609,9150,8382,10138,24686
+M4 [Pregnancy outcome & weight of new-born],4.1.2,Number of still births,TOTAL,4053,755,153,888,105,41,670,725,117,69,92,438
+M4 [Pregnancy outcome & weight of new-born],4.1.3,Number of Abortions (spontaneous or induced),TOTAL,27300,4192,2767,2138,1608,382,4115,2775,1931,1755,1293,4344
+M4 [Pregnancy outcome & weight of new-born],4.2.1,Number of Newborns weighed at birth,TOTAL,197996,32551,9646,32274,8346,5630,31152,29465,8721,7570,9943,22698
+M4 [Pregnancy outcome & weight of new-born],4.2.2,Number of Newborns having weight less than 2.5 kg,TOTAL,43308,7739,1902,4992,1641,1085,7073,9226,1383,910,1626,5731
+M4 [Pregnancy outcome & weight of new-born],4.3,Number of Newborns breast fed within 1 hour of birth,TOTAL,152857,22873,6143,27097,8036,5267,23039,23909,6873,5646,7865,16109
+M5 [Complicated pregnanices],5.1.1,Number of cases of pregnant women with Obstetric Complications and attended at PHCs,TOTAL,6,0,0,0,0,0,0,0,6,0,0,0
+M5 [Complicated pregnanices],5.1.2,Number of cases of pregnant women with Obstetric Complications and attended at CHCs,TOTAL,551,0,6,0,10,230,29,170,NA,105,NA,1
+M5 [Complicated pregnanices],5.1.3,Number of cases of pregnant women with Obstetric Complications and attended at SDHs or DHs,TOTAL,56192,13708,3486,7615,4463,230,5494,9685,3347,442,1752,5970
+M5 [Complicated pregnanices],5.1.4,Number of cases of pregnant women with Obstetric Complications and attended at other State owned public institutions,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M5 [Complicated pregnanices],5.1.5,"Number of cases of pregnant women with Obstetric Complications and attended at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 5.1.1 to 5.1.4)",TOTAL,56749,13708,3492,7615,4473,460,5523,9855,3353,547,1752,5971
+M5 [Complicated pregnanices],5.2,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,7016,1159,209,0,294,96,738,951,1369,1512,347,341
+M5 [Complicated pregnanices],5.3.1,Number of cases of complicated pregnancies treated with IV antibiotics,TOTAL,43390,9362,3687,5208,826,367,5398,7256,2424,1986,1659,5217
+M5 [Complicated pregnanices],5.3.2,Number of cases of complicated pregnancies treated with IV Antihypertensive/Magsulph injection,TOTAL,4141,387,21,739,160,200,273,969,269,116,137,870
+M5 [Complicated pregnanices],5.3.3,Number of cases of complicated pregnancies treated with IV Oxytocis,TOTAL,40921,13536,2658,3910,1139,412,4794,4039,2836,1961,1168,4468
+M5 [Complicated pregnanices],5.3.4,Number of cases of complicated pregnancies treated with Blood Transfusion,TOTAL,13025,1591,1203,2200,393,45,2006,2333,245,132,304,2573
+M6 [Post - Natal Care],6.1,Women getting post partum check-up within 48 hours after delivery,TOTAL,181612,26884,7986,32686,8305,5978,28222,25682,7923,7474,9873,20599
+M6 [Post - Natal Care],6.2,Women getting a post partum check up between 48 hours and 14 days after delivery,TOTAL,129186,17312,5325,11778,7083,5250,17581,16692,3332,6512,12816,25505
+M6 [Post - Natal Care],6.3,PNC maternal complications attended,TOTAL,4685,315,1125,573,232,1,1067,244,53,232,314,529
+M7 [Medical Termination of Pregnancy (MTP)],7.1.1,Number of MTPs conducted at Public Institutions up to 12 weeks of pregnancy,TOTAL,4784,852,56,654,177,38,848,444,493,274,210,738
+M7 [Medical Termination of Pregnancy (MTP)],7.1.2,Number of MTPs conducted at Public Institutions for more than 12 weeks of pregnancy,TOTAL,652,82,6,161,6,0,62,111,174,0,11,39
+M7 [Medical Termination of Pregnancy (MTP)],7.1.3,Total number of MTPs conducted at Public Institutions (sum of items 7.1.1 and 7.1.2),TOTAL,5436,934,62,815,183,38,910,555,667,274,221,777
+M7 [Medical Termination of Pregnancy (MTP)],7.2,Number of MTPs conducted at Private Facilities,TOTAL,9624,1442,1862,64,290,22,1400,854,628,1143,508,1411
+M8 [RTI/STI Cases],8.1.a,Number of new cases of RTI/STI in males for which treatment was initiated,TOTAL,26974,4343,1384,5248,1715,969,1813,962,1932,2271,2296,4041
+M8 [RTI/STI Cases],8.1.b,Number of new cases of RTI/STI in females for which treatment was initiated,TOTAL,137855,16446,8607,18895,8956,10251,12789,8368,4745,7232,7311,34255
+M8 [RTI/STI Cases],8.1.c,Total number of new cases of RTI/STI in males and females for which treatment was initiated (sum of items 8.1.a and 8.1.b),TOTAL,164829,20789,9991,24143,10671,11220,14602,9330,6677,9503,9607,38296
+M8 [RTI/STI Cases],8.2,Number of suspected RTI/STI cases for whom wet mount test was conducted,TOTAL,678,0,2,0,0,212,2,0,48,27,11,376
+M9 [Family Planning],9.1.1.a,Number of NSV (No Scalpel Vasectomy) or Conventional Vasectomy conducted at PHCs,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.1.1.b,Number of NSV or Conventional Vasectomy conducted at CHCs,TOTAL,0,0,NA,0,0,0,0,NA,NA,0,NA,0
+M9 [Family Planning],9.1.1.c,Number of NSV or Conventional Vasectomy conducted at SDHs or DHs,TOTAL,1189,799,19,103,5,9,37,20,15,1,125,56
+M9 [Family Planning],9.1.1.d,Number of NSV or Conventional Vasectomy conducted at other State owned public institutions,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M9 [Family Planning],9.1.1.e,"Total Number of NSV or Conventional Vasectomy conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.1.1.a to 9.1.1.d)",TOTAL,1189,799,19,103,5,9,37,20,15,1,125,56
+M9 [Family Planning],9.1.2,Number of NSV or Conventional Vasectomy conducted at Private facilities,TOTAL,28,26,1,0,0,NA,0,0,1,0,0,0
+M9 [Family Planning],9.2.1.a,Number of Laparoscopic sterilizations conducted at PHCs,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.2.1.b,Number of Laparoscopic sterilizations conducted at CHCs,TOTAL,5,0,NA,0,1,0,0,NA,NA,4,NA,0
+M9 [Family Planning],9.2.1.c,Number of Laparoscopic sterilizations conducted at SDHs or DHs,TOTAL,4566,1444,19,732,60,14,601,274,493,59,187,683
+M9 [Family Planning],9.2.1.d,Number of Laparoscopic sterilizations conducted at other State owned public institutions,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M9 [Family Planning],9.2.1.e,"Total Number of Laparoscopic sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.2.1.a to 9.2.1.d)",TOTAL,4571,1444,19,732,61,14,601,274,493,63,187,683
+M9 [Family Planning],9.2.2,Number of Laparoscopic sterilizations conducted at Private facilities,TOTAL,1794,39,36,158,10,NA,905,451,19,143,2,31
+M9 [Family Planning],9.3.1.a,Number of Mini-lap sterilizations conducted at PHCs,TOTAL,4,4,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.3.1.b,Number of Mini-lap sterilizations conducted at CHCs,TOTAL,0,0,NA,0,NA,0,0,NA,NA,0,NA,0
+M9 [Family Planning],9.3.1.c,Number of Mini-lap sterilizations conducted at SDHs or DHs,TOTAL,1368,175,89,686,28,3,117,91,30,3,73,73
+M9 [Family Planning],9.3.1.d,Number of Mini-lap sterilizations conducted at other State owned public institutions,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M9 [Family Planning],9.3.1.e,"Total Number of Mini-lap sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.3.1.a to 9.3.1.d)",TOTAL,1372,179,89,686,28,3,117,91,30,3,73,73
+M9 [Family Planning],9.3.2,Number of Mini-lap sterilizations conducted at Private facilities,TOTAL,236,20,10,0,3,NA,108,0,17,58,0,20
+M9 [Family Planning],9.4.1.a,Number of Post-Partum sterilizations conducted at PHCs,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.4.1.b,Number of Post-Partum sterilizations conducted at CHCs,TOTAL,10,0,NA,10,NA,0,0,NA,NA,0,NA,0
+M9 [Family Planning],9.4.1.c,Number of Post-Partum sterilizations conducted at SDHs or DHs,TOTAL,3727,444,0,680,30,45,1028,673,129,31,91,576
+M9 [Family Planning],9.4.1.d,Number of Post-Partum sterilizations conducted at other State owned public institutions,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M9 [Family Planning],9.4.1.e,"Total Number of Post-Partum sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.4.1.a to 9.4.1.d)",TOTAL,3737,444,0,690,30,45,1028,673,129,31,91,576
+M9 [Family Planning],9.4.2,Number of Post-Partum sterilizations conducted at Private facilities,TOTAL,264,61,10,0,12,NA,25,4,7,52,6,87
+M9 [Family Planning],9.5.1.a,Number of IUCD Insertions conducted at SCs,TOTAL,10,10,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.5.1.b,Number of IUCD Insertions conducted at PHCs,TOTAL,17641,2665,1158,921,1111,1566,1744,1037,1563,1669,1742,2465
+M9 [Family Planning],9.5.1.c,Number of IUCD Insertions conducted at CHCs,TOTAL,6195,790,535,340,459,821,587,591,NA,676,110,1286
+M9 [Family Planning],9.5.1.d,Number of IUCD Insertions conducted at SDHs or DHs,TOTAL,38071,5934,2094,5863,3021,880,6681,4774,1488,847,1227,5262
+M9 [Family Planning],9.5.1.e,Number of IUCD Insertions conducted at other State owned public institutions,TOTAL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M9 [Family Planning],9.5.1.f,"Total Number of IUCD Insertions conducted at Public facilities i.e. SC, PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.5.1.a to 9.5.1.e)",TOTAL,61917,9399,3787,7124,4591,3267,9012,6402,3051,3192,3079,9013
+M9 [Family Planning],9.5.1A,"Out of above total, Post Partum (within 48 hours of delivery) IUCD insertions",TOTAL,33416,5243,2143,5017,2526,1122,5461,4161,876,806,868,5193
+M9 [Family Planning],9.5.2,Number of IUCD Insertions conducted at Private facilities,TOTAL,2839,415,187,127,179,33,432,323,196,416,122,409
+M9 [Family Planning],9.06,Number of IUCD removals,TOTAL,10044,1274,699,878,718,635,1250,747,713,800,843,1487
+M9 [Family Planning],9.07,Number of Oral Pills cycles distributed,TOTAL,150309,15747,11175,11107,14344,10236,17169,14813,9824,17881,10702,17311
+M9 [Family Planning],9.08,Number of Condom pieces distributed,TOTAL,5294201,630696,184990,386443,539846,284537,885318,269589,491761,605698,422360,592963
+M9 [Family Planning],9.09,Number of Centchroman (weekly) pills given,TOTAL,123,63,0,0,0,0,0,0,41,0,8,11
+M9 [Family Planning],9.1,Number of Emergency Contraceptive Pills distributed,TOTAL,12703,867,1101,786,1487,1254,1593,861,1398,982,876,1498
+M9 [Family Planning],9.11.1.a,Number of cases of complications following male sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.11.1.b,Number of cases of complications following female sterilization,TOTAL,15,1,0,0,0,0,0,11,0,0,2,1
+M9 [Family Planning],9.11.2.a,Number of failures following male sterilization,TOTAL,1,0,0,0,0,0,0,0,0,0,0,1
+M9 [Family Planning],9.11.2.b,Number of failures following female sterilization,TOTAL,36,13,0,4,1,0,7,7,1,0,0,3
+M9 [Family Planning],9.11.3.a,Number of deaths following male sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.11.3.b,Number of deaths following female sterilization,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M9 [Family Planning],9.12,Number of Institutions having NSV trained doctors,TOTAL,485,52,44,62,26,6,112,60,44,21,22,36
+M10 [CHILD IMMUNIZATION],10.1.01,Number of Infants (0 to 11 months old)received BCG immunisation,TOTAL,233452,31356,12249,36629,13918,10427,33931,31412,10384,12611,11805,28730
+M10 [CHILD IMMUNIZATION],10.1.02,Number of Infants (0 to 11 months old) received DPT1 immunisation,TOTAL,13006,1810,748,229,539,700,1814,959,1321,2180,322,2384
+M10 [CHILD IMMUNIZATION],10.1.03,Number of Infants (0 to 11 months old) received DPT2 immunisation,TOTAL,10937,1651,647,187,462,656,1291,648,1109,1946,296,2044
+M10 [CHILD IMMUNIZATION],10.1.04,Number of Infants (0 to 11 months old) received DPT3 immunisation,TOTAL,10197,1666,584,156,453,567,1270,650,802,1798,268,1983
+M10 [CHILD IMMUNIZATION],10.1.04A,Number of Infants (0 to 11 months old) received Pentavalent1 immunisation,TOTAL,219601,21791,14264,12668,21461,21207,28278,19799,13135,20889,16979,29130
+M10 [CHILD IMMUNIZATION],10.1.04B,Number of Infants (0 to 11 months old) received Pentavalent2 immunisation,TOTAL,213464,20476,14632,11125,21335,20725,27923,18150,13201,20956,16630,28311
+M10 [CHILD IMMUNIZATION],10.1.04C,Number of Infants (0 to 11 months old) received Pentavalent3 immunisation,TOTAL,207982,19799,14074,10772,21082,19680,27139,17509,13148,20498,16271,28010
+M10 [CHILD IMMUNIZATION],10.1.05,Number of Infants (0 to 11 months old) received OPV 0 (Birth Dose),TOTAL,184682,27954,9410,32757,7222,5520,27517,28371,7916,6343,9219,22453
+M10 [CHILD IMMUNIZATION],10.1.06,Number of Infants (0 to 11 months old) received OPV1 (First Dose),TOTAL,227547,23520,15170,12660,21628,21480,28994,20405,12269,22767,17247,31407
+M10 [CHILD IMMUNIZATION],10.1.07,Number of Infants (0 to 11 months old) received OPV2 (Second Dose),TOTAL,219985,22079,15211,11067,21411,21018,28239,18531,12693,22549,16936,30251
+M10 [CHILD IMMUNIZATION],10.1.08,Number of Infants (0 to 11 months old) received OPV3 (Third Dose),TOTAL,214458,21360,14732,10757,21048,19879,27492,17783,12667,22264,16560,29916
+M10 [CHILD IMMUNIZATION],10.1.09A,Number of Infants (upto 48 hrs of age) received Hepatitis-B0 immunisation,TOTAL,173780,24734,9172,32622,6850,4832,26705,27299,7106,5975,9041,19444
+M10 [CHILD IMMUNIZATION],10.1.09,Number of Infants (0 to 11 months old) received Hepatitis-B1 immunisation,TOTAL,13615,2290,1171,110,199,1073,1864,1146,781,1829,328,2824
+M10 [CHILD IMMUNIZATION],10.1.10,Number of Infants (0 to 11 months old) received Hepatitis-B2 immunisation,TOTAL,9403,1560,914,127,162,462,1299,724,866,1531,269,1489
+M10 [CHILD IMMUNIZATION],10.1.11,Number of Infants (0 to 11 months old) received Hepatitis-B3 immunisation,TOTAL,8539,1743,738,157,201,421,1046,611,813,1247,269,1293
+M10 [CHILD IMMUNIZATION],10.1.12,Number of Infants (0 to 11 months old) received Measles immunisation (First Dose),TOTAL,243552,23881,17000,12215,24083,22454,31130,19704,15333,25140,18902,33710
+M10 [CHILD IMMUNIZATION],10.1.12B,Number of Infants (more than 16 months old) received Measles immunisation (Second Dose),TOTAL,26589,2618,2372,909,1201,3253,5179,1729,1174,2784,991,4379
+M10 [CHILD IMMUNIZATION],10.1A,No. of Children aged 9 to 12 months who received JE 1st dose,TOTAL,8,0,0,0,8,0,0,0,0,0,0,0
+M10 [CHILD IMMUNIZATION],10.1.13.a,Total number of male children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,125641,12095,8815,6420,12675,11566,16324,9878,7531,12352,10101,17884
+M10 [CHILD IMMUNIZATION],10.1.13.b,Total number of female children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,108885,10606,7670,5406,10844,10171,14239,8653,6611,10778,8511,15396
+M10 [CHILD IMMUNIZATION],10.1.13.c,Total number of children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month (sum of items 10.1.13.a and 10.1.13.b),TOTAL,234526,22701,16485,11826,23519,21737,30563,18531,14142,23130,18612,33280
+M10 [CHILD IMMUNIZATION],10.2.1,Number of Infants (more than 16 months old) received DPT Booster dose,TOTAL,234715,22564,16953,11770,23174,21797,30261,18698,14845,22682,19026,32945
+M10 [CHILD IMMUNIZATION],10.2.2,Number of Infants (more than 16 months old) received OPV Booster dose,TOTAL,233869,22525,16912,11771,23022,21664,29915,18737,15101,22618,19019,32585
+M10 [CHILD IMMUNIZATION],10.2.3,"Number of Infants (more than 16 months old) received Measles, Mumps, Rubella (MMR) Vaccination",TOTAL,221373,22147,15186,11873,22717,18329,26144,19247,15400,23771,18380,28179
+M10 [CHILD IMMUNIZATION],10.3.1.a,Total number of male children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,34310,3639,1143,1848,3623,4145,5127,3206,1486,1263,2406,6424
+M10 [CHILD IMMUNIZATION],10.3.1.b,Total number of female children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,28979,3115,988,1260,2903,3906,4489,2585,1329,1128,1978,5298
+M10 [CHILD IMMUNIZATION],10.3.1.c,Total number of children (12 to 23 months old) fully immunised (BCG+DPT123+OPV123/Pentavalent123+Measles) during the month (sum of items 10.3.1.a and 10.3.1.b),TOTAL,63289,6754,2131,3108,6526,8051,9616,5791,2815,2391,4384,11722
+M10 [CHILD IMMUNIZATION],10.3.2,Number of children (more than 5 years old) given DT5,TOTAL,116956,12841,8763,6482,10101,8819,14262,8762,7867,11583,10353,17123
+M10 [CHILD IMMUNIZATION],10.3.3,Number of children (more than 10 years old) given TT10,TOTAL,32432,4010,2842,2669,2150,2361,3408,2215,2677,3643,2625,3832
+M10 [CHILD IMMUNIZATION],10.3.4,Number of children (more than 16 years old) given TT16,TOTAL,21045,3410,1615,1697,1983,1216,2374,2157,1384,1841,1812,1556
+M10 [CHILD IMMUNIZATION],10.3.5.a,Number of cases of Abscess reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,10,0,7,0,0,0,3,0,0,0,0,0
+M10 [CHILD IMMUNIZATION],10.3.5.b,Number of cases of Death reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,1,0,0,0,0,0,0,0,0,1,0,0
+M10 [CHILD IMMUNIZATION],10.3.5.c,Number of cases of other complications reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,24,4,3,0,0,8,3,2,1,3,0,0
+M10 [CHILD IMMUNIZATION],10.4.1,Number of Immunisation sessions planned to be held during the month,TOTAL,95046,12704,7513,5583,9358,6662,12827,6097,5299,9582,6242,13179
+M10 [CHILD IMMUNIZATION],10.4.2,Number of Immunisation sessions held during the month,TOTAL,92449,12469,7323,5245,9088,6566,12482,5929,5220,9275,6028,12824
+M10 [CHILD IMMUNIZATION],10.4.3,Number of Immunisation sessions held during the month where ASHAs were present,TOTAL,49941,2773,4796,2183,5095,5235,6219,2834,2775,5854,4766,7411
+M10 [CHILD IMMUNIZATION],10.5.1,Number of children (more than 16 months old) received Japanese Encephalitis (JE) vaccination,TOTAL,4,0,0,0,0,0,0,0,0,4,0,0
+M11 [Number of Vitamin A doses],11.1.1,Number of children (9 months to 5 years old) administered 1st dose of Vitamin A (Dose-1),TOTAL,190041,16360,16557,8199,16383,18104,21723,15528,13264,19716,18247,25960
+M11 [Number of Vitamin A doses],11.1.2,Number of children (9 months to 5 years old) were administered 5th dose of Vitamin A (Dose-5),TOTAL,131455,9031,14826,3439,18973,10285,13698,10615,8191,14460,8483,19454
+M11 [Number of Vitamin A doses],11.1.3,Number of children (9 months to 5 years old) administered 9th dose of Vitamin A (Dose-9),TOTAL,55136,3424,6796,1492,6837,5769,6312,3718,3195,7566,3187,6840
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.1,Number of cases of Diptheria reported in children below 5 years of age,TOTAL,7,0,2,4,0,0,1,0,0,0,0,0
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.2,Number of cases of Pertusis reported in children below 5 years of age,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.3,Number of cases of Tetanus neonatarum reported in children below 5 years of age,TOTAL,3,0,0,3,0,0,0,0,0,0,0,0
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.4,Number of cases of Tetanus other than neonatarum reported in children below 5 years of age,TOTAL,14,0,0,8,0,0,0,0,0,0,0,6
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.5,Number of cases of Polio reported in children below 5 years of age,TOTAL,0,0,0,0,0,0,0,0,0,0,0,0
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.6,Number of cases of Measles reported in children below 5 years of age,TOTAL,510,44,47,66,62,11,61,106,66,25,4,18
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.7,Number of cases of Diarrhoea and Dehydration reported in children below 5 years of age,TOTAL,81923,7033,7518,8810,22686,1294,7669,4276,2402,4924,3103,12208
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.8,Number of cases of Malaria reported in children below 5 years of age,TOTAL,967,149,70,302,189,0,105,61,31,24,19,17
+M12 [Number of cases of Childhood Diseases reported during the month0-5 years:],12.9,Number of children below 5 years of age admitted with Respiratory Infections,TOTAL,15214,1617,1552,4267,902,0,1732,751,1575,326,376,2116
+M13 [Blindness Control Programme],13.1,Number of Patients operated for cataract,TOTAL,41117,20617,805,5386,593,274,3590,1539,459,2191,118,5545
+M13 [Blindness Control Programme],13.2,Number of Intraocular Lens(IOL) implantations,TOTAL,38898,20375,390,5317,330,274,3011,1125,454,2097,74,5451
+M13 [Blindness Control Programme],13.3,Number of School children detected with Refractive errors,TOTAL,18002,761,237,0,1454,462,2333,2848,1850,636,762,6659
+M13 [Blindness Control Programme],13.4,Number of children provided free glasses,TOTAL,1945,0,0,0,0,0,536,0,0,0,0,1409
+M13 [Blindness Control Programme],13.5,Number of eyes collected through eye donation,TOTAL,1127,835,0,75,0,0,0,20,0,0,0,197
+M13 [Blindness Control Programme],13.6,Number of eyes utilised for corneal transplant,TOTAL,704,462,0,39,0,0,0,6,0,0,0,197
+M14 [Patient Services],14.01,Number of CHC or SDH or DH functioning as First Referral units (FRUs),TOTAL,348,51,19,36,25,33,79,46,8,6,9,36
+M14 [Patient Services],14.02,Number of PHCs functioning 24X7 with atleast 3 Staff Nurses,TOTAL,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA
+M14 [Patient Services],14.03,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,3627,52,44,0,3,104,2456,53,330,453,58,74
+M14 [Patient Services],14.04,Number of facilities having a Rogi Kalyan Samiti (RKS),TOTAL,302,36,34,9,27,34,54,45,NA,9,18,36
+M14 [Patient Services],14.05,Number of RKS meetings held during the month,TOTAL,50,5,2,0,4,6,17,3,0,2,6,5
+M14 [Patient Services],14.06,Number of facilities having Ambulance services (Assured Referral Services),TOTAL,1559,128,305,235,44,36,187,101,73,96,239,115
+M14 [Patient Services],14.07,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,37458,2642,4752,10923,870,1105,4501,1911,936,2406,2376,5036
+M14 [Patient Services],14.08,Number of Institutions having Operational Sick New Born and Child Care Units (SNCU),TOTAL,508,81,38,49,22,4,80,61,49,47,32,45
+M14 [Patient Services],14.09,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,1521,284,132,289,19,0,435,44,35,132,38,113
+M14 [Patient Services],14.09.a,Health Facility Services/Patient Services/Stock out rate of essential Drugs,TOTAL,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA
+M14 [Patient Services],14.09.b,Health Facility Services/Patient Services/Blood Units Issued on replacement,TOTAL,457,206,NA,NA,8,NA,45,NA,NA,NA,NA,198
+M14 [Patient Services],14.09.c,Health Facility Services/Patient Services/Total no. of blood units issued in year,TOTAL,2218,1770,NA,NA,32,NA,98,NA,NA,NA,NA,318
+M14 [Patient Services],14.10.1.a,Number of male patients admitted (Inpatients) during the month,1. Children,228974,47545,15859,56144,7494,2157,34333,20382,6638,13792,8033,16597
+M14 [Patient Services],14.10.1.a,Number of male patients admitted (Inpatients) during the month,2. Adults,477908,146321,24581,62890,5380,3906,74214,48733,17348,32954,14289,47292
+M14 [Patient Services],14.10.1.b,Number of female patients (Inpatients) admitted during the month,1. Children,171512,22685,10516,54183,5654,1958,28111,15377,5185,7754,6769,13320
+M14 [Patient Services],14.10.1.b,Number of female patients (Inpatients) admitted during the month,2. Adults,616313,124623,37231,91177,14389,9552,100767,80404,22378,38081,25204,72507
+M14 [Patient Services],14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),1. Children,400486,70230,26375,110327,13148,4115,62444,35759,11823,21546,14802,29917
+M14 [Patient Services],14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),2. Adults,1094221,270944,61812,154067,19769,13458,174981,129137,39726,71035,39493,119799
+M14 [Patient Services],14.10.2.a,Number of death cases of Inpatient males,TOTAL,20371,6825,1600,4192,365,12,3156,983,444,575,177,2042
+M14 [Patient Services],14.10.2.b,Number of death cases of Inpatient females,TOTAL,12022,3544,954,2463,145,23,2049,704,295,337,96,1412
+M14 [Patient Services],14.10.2.c,Number of cases of death of Inpatients (sum of items 14.10.2.a and 14.10.2.b),TOTAL,32393,10369,2554,6655,510,35,5205,1687,739,912,273,3454
+M14 [Patient Services],14.11,In-Patient Head Count at midnight,TOTAL,3869800,654700,262449,1048174,103606,30946,512921,282023,169756,326564,111377,367284
+M14 [Patient Services],14.12.1,OPD attendance (All),TOTAL,48316713,6752688,2794001,7327296,2916937,2123757,6475919,5125173,2187329,3044960,3225102,6343551
+M14 [Patient Services],14.13.1,Number of major operations carried out using general or spinal anaesthesia,TOTAL,260520,61465,17378,45947,2934,1968,34878,17080,16963,24276,4939,32692
+M14 [Patient Services],14.13.1A,"Out of 14.13.1,Gynecology- Hysterectomy surgeries",TOTAL,5303,1059,439,646,177,41,1086,347,438,375,261,434
+M14 [Patient Services],14.13.1.B,"Patient Services/Operation major (General and spinal anaesthesia)/Major Surgeries excluding Obstetrics, Gynaecology and Opthalmology etc",TOTAL,575,NA,NA,NA,97,NA,385,0,NA,93,NA,NA
+M14 [Patient Services],14.13.2,Number of minor operations carried out without anaesthesia or using local anaesthesia,TOTAL,506010,36435,34715,69435,27683,8801,98567,22387,3812,17427,6927,179821
+M14 [Patient Services],14.13.3,Health Facility Services/Patient Services/Number of post operative Surgical Site infection,TOTAL,0,0,NA,NA,0,NA,0,0,NA,NA,NA,NA
+M14 [Patient Services],14.14.a,Number of patients given AYUSH treatment,TOTAL,1513835,223494,176914,166042,136635,3363,138922,202871,35373,157837,82614,189770
+M14 [Patient Services],14.14.b,Number of patients on whom Dental Procedure was conducted,TOTAL,424749,109404,10161,106997,23521,1249,49346,15037,7682,22439,22734,56179
+M14 [Patient Services],14.14.c,Number of Adolescents counselled,TOTAL,57655,12724,3976,3330,6448,3049,11945,2344,342,2294,6118,5085
+M15 [Laboratory Testing],15.1.a,Health Facility Services/Laboratory Testing/Total Number of lab Tests Done,TOTAL,1562520,1496540,NA,NA,32548,NA,3392,27940,NA,2100,NA,0
+M15 [Laboratory Testing],15.1.1.a,Number of Haemoglobin (Hb) tests conducted,TOTAL,9943847,1683448,325694,5673019,144435,72255,547983,383452,313483,147060,182893,470125
+M15 [Laboratory Testing],15.1.1.b,"Out of the total number of Hb tests conducted, number of cases having Hb less than 7gm/dl",TOTAL,107094,18510,5909,12623,4368,2473,14482,14239,3232,1670,4019,25569
+M15 [Laboratory Testing],15.1.2.a,Number of HIV tests conducted on males,1. Number tested,232209,44245,22899,45984,7538,5315,31941,15216,23820,7424,7219,20608
+M15 [Laboratory Testing],15.1.2.a,Number of HIV tests conducted on males,2. Number Positive,2322,303,112,742,70,87,433,158,128,31,57,201
+M15 [Laboratory Testing],15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),1. Number tested,150978,20873,11912,25224,7115,6118,23580,12530,13833,6195,6054,17544
+M15 [Laboratory Testing],15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),2. Number Positive,900,79,62,321,19,13,171,48,41,12,23,111
+M15 [Laboratory Testing],15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),1. Number tested,217106,31724,13907,24543,18801,16362,33088,22814,10338,8068,17631,19830
+M15 [Laboratory Testing],15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),2. Number Positive,785,37,16,80,15,149,99,308,21,3,10,47
+M15 [Laboratory Testing],15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),1. Number tested,600293,96842,48718,95751,33454,27795,88609,50560,47991,21687,30904,57982
+M15 [Laboratory Testing],15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),2. Number Positive,4007,419,190,1143,104,249,703,514,190,46,90,359
+M15 [Laboratory Testing],15.2,Number of Widal tests conducted,Number tested,265017,26121,17838,27950,19295,6975,42364,28399,13710,12755,20417,49193
+M15 [Laboratory Testing],15.3.a,Number of VDRL tests conducted on males,Number tested,48443,4096,11668,14497,1912,655,2008,1883,5381,1468,1048,3827
+M15 [Laboratory Testing],15.3.b,Number of VDRL tests conducted on Female-Non ANC (i.e. non pregnant females),Number tested,54472,4629,2696,16439,3855,2544,4836,1449,2652,1658,1693,12021
+M15 [Laboratory Testing],15.3.c,Number of VDRL tests conducted on Female with ANC (i.e. pregnant females),Number tested,207476,23458,11532,24457,14513,12796,39887,17768,9894,9403,20556,23212
+M15 [Laboratory Testing],15.3.d,Total number of VDRL tests conducted (sum of items 15.3.a to 15.3.c),Number tested,310391,32183,25896,55393,20280,15995,46731,21100,17927,12529,23297,39060
+M15 [Laboratory Testing],15.4.1,Number of blood smears examined for Malaria,TOTAL,588729,29632,16668,35857,9961,5317,55030,50890,294729,16234,27018,47393
+M15 [Laboratory Testing],15.4.2,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Vivax",TOTAL,3483,145,291,346,82,46,519,481,628,348,209,388
+M15 [Laboratory Testing],15.4.3,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Falciparum",TOTAL,708,10,20,30,0,5,371,3,16,241,9,3
+M16 [Stock Position (During the month)],16.1.1,Stock position of DPT vaccines,1. Balance From Previous Month,323800,28880,19010,29210,30430,17460,28440,9730,40550,29190,33870,57030
+M16 [Stock Position (During the month)],16.1.1,Stock position of DPT vaccines,2. Stocks Received,398090,43000,26500,22700,31220,25500,55130,28600,31440,43500,37000,53500
+M16 [Stock Position (During the month)],16.1.1,Stock position of DPT vaccines,3. Unusable Stock,22180,2560,1220,0,0,0,18400,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.1.1,Stock position of DPT vaccines,4. Stock Distributed,377717,40100,29810,23320,25840,25757,51570,29380,29540,40490,35140,46770
+M16 [Stock Position (During the month)],16.1.1,Stock position of DPT vaccines,5. Total Stock,321993,29220,14480,28590,35810,17203,13600,8950,42450,32200,35730,63760
+M16 [Stock Position (During the month)],16.1.1A,Stock Position of Pentavalent,1. Balance From Previous Month,408780,36800,10380,42590,27880,28150,45800,21540,48010,57210,41850,48570
+M16 [Stock Position (During the month)],16.1.1A,Stock Position of Pentavalent,2. Stocks Received,592720,61700,36660,32640,46640,50720,98080,51770,39490,59580,40080,75360
+M16 [Stock Position (During the month)],16.1.1A,Stock Position of Pentavalent,3. Unusable Stock,12870,490,0,0,0,0,12380,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.1.1A,Stock Position of Pentavalent,4. Stock Distributed,560203,58440,38750,34460,41330,35740,90393,53890,36350,56490,42460,71900
+M16 [Stock Position (During the month)],16.1.1A,Stock Position of Pentavalent,5. Total Stock,428427,39570,8290,40770,33190,43130,41107,19420,51150,60300,39470,52030
+M16 [Stock Position (During the month)],16.1.2,Stock position of OPV vaccines,1. Balance From Previous Month,564610,78840,23680,50520,36970,26890,51620,18520,78880,67750,57980,72960
+M16 [Stock Position (During the month)],16.1.2,Stock position of OPV vaccines,2. Stocks Received,1014660,128540,67040,101780,66000,62000,115080,82000,74200,91000,62000,165020
+M16 [Stock Position (During the month)],16.1.2,Stock position of OPV vaccines,3. Unusable Stock,11020,1760,0,0,0,0,9260,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.1.2,Stock position of OPV vaccines,4. Stock Distributed,986030,144620,67120,104440,55070,43710,104120,85180,66040,78210,68680,168840
+M16 [Stock Position (During the month)],16.1.2,Stock position of OPV vaccines,5. Total Stock,582220,61000,23600,47860,47900,45180,53320,15340,87040,80540,51300,69140
+M16 [Stock Position (During the month)],16.1.3,Stock position of TT vaccines,1. Balance From Previous Month,432335,79700,12500,46820,29680,16870,54420,19391,55940,45384,57850,13780
+M16 [Stock Position (During the month)],16.1.3,Stock position of TT vaccines,2. Stocks Received,494410,68500,24060,30500,32000,29490,82500,27500,27170,54500,49000,69190
+M16 [Stock Position (During the month)],16.1.3,Stock position of TT vaccines,3. Unusable Stock,12870,0,0,0,0,0,12870,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.1.3,Stock position of TT vaccines,4. Stock Distributed,467195,58480,25560,31280,28490,23120,79110,29350,24070,48985,50220,68530
+M16 [Stock Position (During the month)],16.1.3,Stock position of TT vaccines,5. Total Stock,446680,89720,11000,46040,33190,23240,44940,17541,59040,50899,56630,14440
+M16 [Stock Position (During the month)],16.1.4,Stock position of DT vaccines,1. Balance From Previous Month,5260,0,0,NA,5260,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.4,Stock position of DT vaccines,2. Stocks Received,10800,0,0,NA,10800,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.4,Stock position of DT vaccines,3. Unusable Stock,0,0,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.4,Stock position of DT vaccines,4. Stock Distributed,9000,0,0,NA,9000,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.4,Stock position of DT vaccines,5. Total Stock,7060,0,0,0,7060,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.1.5,Stock position of BCG vaccines,1. Balance From Previous Month,318470,16100,15560,43130,24980,13660,44840,14840,65540,41270,14460,24090
+M16 [Stock Position (During the month)],16.1.5,Stock position of BCG vaccines,2. Stocks Received,369610,37500,17000,57000,24000,21500,66500,33350,19760,30000,14500,48500
+M16 [Stock Position (During the month)],16.1.5,Stock position of BCG vaccines,3. Unusable Stock,16790,1620,0,0,0,0,15170,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.1.5,Stock position of BCG vaccines,4. Stock Distributed,353100,35150,19410,55280,22160,17280,62440,34490,19120,28440,14650,44680
+M16 [Stock Position (During the month)],16.1.5,Stock position of BCG vaccines,5. Total Stock,318190,16830,13150,44850,26820,17880,33730,13700,66180,42830,14310,27910
+M16 [Stock Position (During the month)],16.1.6,Stock position of Measles vaccines,1. Balance From Previous Month,311620,20510,14835,38705,19800,16915,26870,12310,44965,36010,36865,43835
+M16 [Stock Position (During the month)],16.1.6,Stock position of Measles vaccines,2. Stocks Received,390550,38500,26190,21300,32500,29750,66000,29470,27840,44000,25000,50000
+M16 [Stock Position (During the month)],16.1.6,Stock position of Measles vaccines,3. Unusable Stock,12500,1600,0,0,0,0,10900,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.1.6,Stock position of Measles vaccines,4. Stock Distributed,339245,32330,27120,18280,26780,22090,57170,29125,22580,38390,22915,42465
+M16 [Stock Position (During the month)],16.1.6,Stock position of Measles vaccines,5. Total Stock,350425,25080,13905,41725,25520,24575,24800,12655,50225,41620,38950,51370
+M16 [Stock Position (During the month)],16.1.7,Stock position of JE vaccines,1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.7,Stock position of JE vaccines,2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.7,Stock position of JE vaccines,3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.7,Stock position of JE vaccines,4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.1.7,Stock position of JE vaccines,5. Total Stock,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.1.8,Stock position of Hepatitis B vaccines,1. Balance From Previous Month,160490,10350,14090,27630,9610,5680,32050,16120,9350,9060,11910,14640
+M16 [Stock Position (During the month)],16.1.8,Stock position of Hepatitis B vaccines,2. Stocks Received,159220,23710,4490,34000,6070,3500,26340,24230,5180,6000,6700,19000
+M16 [Stock Position (During the month)],16.1.8,Stock position of Hepatitis B vaccines,3. Unusable Stock,7460,280,0,0,0,0,7180,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.1.8,Stock position of Hepatitis B vaccines,4. Stock Distributed,152980,21580,6980,31090,4970,2700,23940,24300,4670,6610,7070,19070
+M16 [Stock Position (During the month)],16.1.8,Stock position of Hepatitis B vaccines,5. Total Stock,159270,12200,11600,30540,10710,6480,27270,16050,9860,8450,11540,14570
+M16 [Stock Position (During the month)],16.2.1,Stock Position of IU 380 A (to be used for Family Planning),1. Balance From Previous Month,59370,6186,2310,2881,11062,5084,6547,5300,4559,5700,7215,2526
+M16 [Stock Position (During the month)],16.2.1,Stock Position of IU 380 A (to be used for Family Planning),2. Stocks Received,30083,1800,2633,2000,3600,1150,4800,5000,1800,1800,1600,3900
+M16 [Stock Position (During the month)],16.2.1,Stock Position of IU 380 A (to be used for Family Planning),3. Unusable Stock,1114,219,0,0,0,0,895,NA,0,0,0,0
+M16 [Stock Position (During the month)],16.2.1,Stock Position of IU 380 A (to be used for Family Planning),4. Stock Distributed,37531,2036,1586,1526,2936,2923,3912,12980,1602,2080,1740,4210
+M16 [Stock Position (During the month)],16.2.1,Stock Position of IU 380 A (to be used for Family Planning),5. Total Stock,50808,5731,3357,3355,11726,3311,6540,-2680,4757,5420,7075,2216
+M16 [Stock Position (During the month)],16.2.2,Stock Position of Condoms (to be used for Family Planning),1. Balance From Previous Month,3779330,90040,64540,456860,209630,115320,2404800,32800,280800,102600,21940,NA
+M16 [Stock Position (During the month)],16.2.2,Stock Position of Condoms (to be used for Family Planning),2. Stocks Received,2070210,138960,65500,129600,155830,64800,689400,124620,292000,409500,0,NA
+M16 [Stock Position (During the month)],16.2.2,Stock Position of Condoms (to be used for Family Planning),3. Unusable Stock,983640,8640,0,0,0,0,975000,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.2.2,Stock Position of Condoms (to be used for Family Planning),4. Stock Distributed,1947070,114940,52380,64980,144570,100270,789600,111060,243400,306900,18970,NA
+M16 [Stock Position (During the month)],16.2.2,Stock Position of Condoms (to be used for Family Planning),5. Total Stock,2918830,105420,77660,521480,220890,79850,1329600,46360,329400,205200,2970,0
+M16 [Stock Position (During the month)],16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),1. Balance From Previous Month,192222,10708,7762,18480,32975,10670,15187,11580,21850,21670,23055,18285
+M16 [Stock Position (During the month)],16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),2. Stocks Received,100321,11500,7471,8500,12400,5000,8000,14950,8000,11000,4500,9000
+M16 [Stock Position (During the month)],16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),3. Unusable Stock,7013,3231,0,0,0,0,3782,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),4. Stock Distributed,92398,10204,4939,8170,10110,4420,10595,13040,8500,10600,4965,6855
+M16 [Stock Position (During the month)],16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),5. Total Stock,193132,8773,10294,18810,35265,11250,8810,13490,21350,22070,22590,20430
+M16 [Stock Position (During the month)],16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),1. Balance From Previous Month,71551,2316,8685,3344,14400,2620,16280,6300,3860,2405,7840,3501
+M16 [Stock Position (During the month)],16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),2. Stocks Received,16050,600,3225,600,1800,1100,0,2600,1620,1605,2200,700
+M16 [Stock Position (During the month)],16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),3. Unusable Stock,7171,61,0,0,0,0,7110,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),4. Stock Distributed,13060,941,1915,212,990,849,2582,2500,755,845,750,721
+M16 [Stock Position (During the month)],16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),5. Total Stock,67370,1914,9995,3732,15210,2871,6588,6400,4725,3165,9290,3480
+M16 [Stock Position (During the month)],16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),1. Balance From Previous Month,5234,NA,0,600,0,0,2664,120,450,0,1200,200
+M16 [Stock Position (During the month)],16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),2. Stocks Received,6500,NA,0,1400,0,0,2000,800,800,0,700,800
+M16 [Stock Position (During the month)],16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),3. Unusable Stock,664,NA,0,0,0,0,664,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),4. Stock Distributed,3500,NA,0,1000,0,0,600,600,300,0,500,500
+M16 [Stock Position (During the month)],16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),5. Total Stock,7570,0,0,1000,0,0,3400,320,950,0,1400,500
+M16 [Stock Position (During the month)],16.3.01,Stock Position of Oxytocin Injection,1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.01,Stock Position of Oxytocin Injection,2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.01,Stock Position of Oxytocin Injection,3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.01,Stock Position of Oxytocin Injection,4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.01,Stock Position of Oxytocin Injection,5. Total Stock,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.02,Stock Position of Gloves,1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.02,Stock Position of Gloves,2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.02,Stock Position of Gloves,3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.02,Stock Position of Gloves,4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.02,Stock Position of Gloves,5. Total Stock,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.03,Stock Position of MVA Syringes,1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.03,Stock Position of MVA Syringes,2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.03,Stock Position of MVA Syringes,3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.03,Stock Position of MVA Syringes,4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.03,Stock Position of MVA Syringes,5. Total Stock,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.04,Stock Position of Fluconazole Tablets,1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.04,Stock Position of Fluconazole Tablets,2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.04,Stock Position of Fluconazole Tablets,3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.04,Stock Position of Fluconazole Tablets,4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.04,Stock Position of Fluconazole Tablets,5. Total Stock,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.05,Stock Position of Blood Transfusion Sets,1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.05,Stock Position of Blood Transfusion Sets,2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.05,Stock Position of Blood Transfusion Sets,3. Unusable Stock,2,NA,0,NA,0,2,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.05,Stock Position of Blood Transfusion Sets,4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.05,Stock Position of Blood Transfusion Sets,5. Total Stock,-2,0,0,0,0,-2,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,5. Total Stock,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.07,Stock Position of IFA Tablets,1. Balance From Previous Month,1758700,165450,0,514000,301200,37000,415200,52100,45000,167250,61500,NA
+M16 [Stock Position (During the month)],16.3.07,Stock Position of IFA Tablets,2. Stocks Received,1735000,150000,0,270000,420000,180000,10000,105000,270000,300000,30000,NA
+M16 [Stock Position (During the month)],16.3.07,Stock Position of IFA Tablets,3. Unusable Stock,30000,NA,0,0,0,0,30000,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.3.07,Stock Position of IFA Tablets,4. Stock Distributed,1490450,200900,0,200200,323900,80500,120600,105000,192900,237750,28700,NA
+M16 [Stock Position (During the month)],16.3.07,Stock Position of IFA Tablets,5. Total Stock,1973250,114550,0,583800,397300,136500,274600,52100,122100,229500,62800,0
+M16 [Stock Position (During the month)],16.3.08,Stock Position of IFA Syrup (Paediatric),1. Balance From Previous Month,63000,NA,0,NA,0,63000,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.08,Stock Position of IFA Syrup (Paediatric),2. Stocks Received,39500,NA,0,NA,0,39500,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.08,Stock Position of IFA Syrup (Paediatric),3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.08,Stock Position of IFA Syrup (Paediatric),4. Stock Distributed,46500,NA,0,NA,0,46500,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.08,Stock Position of IFA Syrup (Paediatric),5. Total Stock,56000,0,0,0,0,56000,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),1. Balance From Previous Month,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),2. Stocks Received,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),3. Unusable Stock,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),4. Stock Distributed,0,NA,0,NA,0,0,NA,NA,NA,NA,0,NA
+M16 [Stock Position (During the month)],16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),5. Total Stock,0,0,0,0,0,0,0,0,0,0,0,0
+M16 [Stock Position (During the month)],16.3.10,Stock Position of Vitamin A solution,1. Balance From Previous Month,16039,NA,837,548,798,1168,8108,832,1372,639,1678,59
+M16 [Stock Position (During the month)],16.3.10,Stock Position of Vitamin A solution,2. Stocks Received,8038,NA,800,550,800,503,2160,955,700,920,550,100
+M16 [Stock Position (During the month)],16.3.10,Stock Position of Vitamin A solution,3. Unusable Stock,148,NA,0,0,0,0,148,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.3.10,Stock Position of Vitamin A solution,4. Stock Distributed,8456,NA,1160,529,793,1230,1108,937,688,917,935,159
+M16 [Stock Position (During the month)],16.3.10,Stock Position of Vitamin A solution,5. Total Stock,15473,0,477,569,805,441,9012,850,1384,642,1293,0
+M16 [Stock Position (During the month)],16.3.11,Stock of ORS (New WHO formulation),1. Balance From Previous Month,156120,NA,0,17400,20200,56200,4200,14700,4600,32800,6020,NA
+M16 [Stock Position (During the month)],16.3.11,Stock of ORS (New WHO formulation),2. Stocks Received,189000,NA,0,11600,43800,15200,41600,200,38600,38000,0,NA
+M16 [Stock Position (During the month)],16.3.11,Stock of ORS (New WHO formulation),3. Unusable Stock,0,NA,0,0,0,0,NA,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.3.11,Stock of ORS (New WHO formulation),4. Stock Distributed,184810,NA,0,12650,41400,11400,41600,5700,35600,32900,3560,NA
+M16 [Stock Position (During the month)],16.3.11,Stock of ORS (New WHO formulation),5. Total Stock,160310,0,0,16350,22600,60000,4200,9200,7600,37900,2460,0
+M16 [Stock Position (During the month)],16.4.1,Stock Position of 0.1 ml Syringes(AD),1. Balance From Previous Month,355158,25280,22431,59905,19100,15466,53400,13250,65830,38700,24166,17630
+M16 [Stock Position (During the month)],16.4.1,Stock Position of 0.1 ml Syringes(AD),2. Stocks Received,251947,26000,17945,52000,20000,4462,42000,24650,11090,21000,8000,24800
+M16 [Stock Position (During the month)],16.4.1,Stock Position of 0.1 ml Syringes(AD),3. Unusable Stock,19000,800,0,0,0,0,18200,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.4.1,Stock Position of 0.1 ml Syringes(AD),4. Stock Distributed,227661,21770,16101,40600,19750,6550,35200,24550,7400,17900,9620,28220
+M16 [Stock Position (During the month)],16.4.1,Stock Position of 0.1 ml Syringes(AD),5. Total Stock,360444,28710,24275,71305,19350,13378,42000,13350,69520,41800,22546,14210
+M16 [Stock Position (During the month)],16.4.2,Stock Position of 0.5 ml Syringes(AD),1. Balance From Previous Month,2992420,261650,35740,145600,647030,86000,192400,60300,674800,414200,214500,260200
+M16 [Stock Position (During the month)],16.4.2,Stock Position of 0.5 ml Syringes(AD),2. Stocks Received,1934750,207800,125500,84800,216000,93600,292400,133150,142300,201000,173400,264800
+M16 [Stock Position (During the month)],16.4.2,Stock Position of 0.5 ml Syringes(AD),3. Unusable Stock,205000,101700,0,0,0,0,103300,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.4.2,Stock Position of 0.5 ml Syringes(AD),4. Stock Distributed,1924280,196700,125290,86700,194850,96500,293200,135750,136600,224500,169550,264640
+M16 [Stock Position (During the month)],16.4.2,Stock Position of 0.5 ml Syringes(AD),5. Total Stock,2797890,171050,35950,143700,668180,83100,88300,57700,680500,390700,218350,260360
+M16 [Stock Position (During the month)],16.4.3,Stock Position of 5.0 ml Syringes(Disposable),1. Balance From Previous Month,402230,56740,25850,10565,18050,12475,44800,19200,84940,76100,26490,27020
+M16 [Stock Position (During the month)],16.4.3,Stock Position of 5.0 ml Syringes(Disposable),2. Stocks Received,177125,13000,18500,3000,12200,2995,56500,20400,10530,9000,10500,20500
+M16 [Stock Position (During the month)],16.4.3,Stock Position of 5.0 ml Syringes(Disposable),3. Unusable Stock,31700,12600,0,0,0,0,19100,NA,0,0,0,NA
+M16 [Stock Position (During the month)],16.4.3,Stock Position of 5.0 ml Syringes(Disposable),4. Stock Distributed,147334,11280,12320,3360,13250,3600,32700,15300,6900,16300,13889,18435
+M16 [Stock Position (During the month)],16.4.3,Stock Position of 5.0 ml Syringes(Disposable),5. Total Stock,400321,45860,32030,10205,17000,11870,49500,24300,88570,68800,23101,29085
+M17 [Details of deaths reported during the month with probable causes:],17.1,Number of cases of Infant deaths within 24 hrs of birth,TOTAL,126,20,1,14,5,10,68,2,1,2,1,2
+M17 [Details of deaths reported during the month with probable causes:],17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,1. Up to 1 Weeks of Birth,455,67,184,143,4,1,29,2,5,NA,3,17
+M17 [Details of deaths reported during the month with probable causes:],17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,2. Between 1 week & 4 weeks of birth,104,10,27,40,5,NA,20,NA,NA,NA,1,1
+M17 [Details of deaths reported during the month with probable causes:],17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,3. Total,559,77,211,183,9,1,49,2,5,NA,4,18
+M17 [Details of deaths reported during the month with probable causes:],17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,1. Up to 1 Weeks of Birth,288,42,66,122,12,NA,35,2,5,NA,3,1
+M17 [Details of deaths reported during the month with probable causes:],17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,2. Between 1 week & 4 weeks of birth,17,2,2,6,1,NA,4,NA,NA,NA,1,1
+M17 [Details of deaths reported during the month with probable causes:],17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,3. Total,305,44,68,128,13,NA,39,2,5,NA,4,2
+M17 [Details of deaths reported during the month with probable causes:],17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,1. Up to 1 Weeks of Birth,434,62,6,115,6,5,53,NA,4,1,2,180
+M17 [Details of deaths reported during the month with probable causes:],17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,2. Between 1 week & 4 weeks of birth,24,6,NA,4,1,NA,12,1,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,3. Total,458,68,6,119,7,5,65,1,4,1,2,180
+M17 [Details of deaths reported during the month with probable causes:],17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",1. Up to 1 Weeks of Birth,573,49,110,151,8,8,133,4,2,6,9,93
+M17 [Details of deaths reported during the month with probable causes:],17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",2. Between 1 week & 4 weeks of birth,51,4,14,9,2,3,18,NA,NA,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",3. Total,624,53,124,160,10,11,151,4,2,6,9,94
+M17 [Details of deaths reported during the month with probable causes:],17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,1. Between 1 month and 11 months,158,11,34,81,8,NA,15,1,2,NA,NA,6
+M17 [Details of deaths reported during the month with probable causes:],17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,2. Between 1 year & 5 years,77,2,16,49,1,NA,5,2,1,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,3. Total,235,13,50,130,9,NA,20,3,3,NA,NA,7
+M17 [Details of deaths reported during the month with probable causes:],17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,1. Between 1 month and 11 months,42,1,NA,27,1,1,8,1,1,NA,NA,2
+M17 [Details of deaths reported during the month with probable causes:],17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,2. Between 1 year & 5 years,15,NA,NA,12,NA,NA,1,NA,NA,NA,NA,2
+M17 [Details of deaths reported during the month with probable causes:],17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,3. Total,57,1,NA,39,1,1,9,1,1,NA,NA,4
+M17 [Details of deaths reported during the month with probable causes:],17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,1. Between 1 month and 11 months,50,1,NA,40,NA,2,2,NA,NA,NA,2,3
+M17 [Details of deaths reported during the month with probable causes:],17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,2. Between 1 year & 5 years,48,NA,NA,41,2,NA,2,NA,1,NA,NA,2
+M17 [Details of deaths reported during the month with probable causes:],17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,3. Total,98,1,NA,81,2,2,4,NA,1,NA,2,5
+M17 [Details of deaths reported during the month with probable causes:],17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,1. Between 1 month and 11 months,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,2. Between 1 year & 5 years,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,3. Total,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",1. Between 1 month and 11 months,433,22,90,197,10,7,64,12,11,1,4,15
+M17 [Details of deaths reported during the month with probable causes:],17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",2. Between 1 year & 5 years,191,10,35,86,6,2,19,4,2,NA,2,25
+M17 [Details of deaths reported during the month with probable causes:],17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",3. Total,624,32,125,283,16,9,83,16,13,1,6,40
+M17 [Details of deaths reported during the month with probable causes:],17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,1. 6-14 yrs,10,NA,NA,6,1,NA,2,NA,NA,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,2. 15-55 yrs.,115,26,4,57,1,NA,18,1,NA,NA,2,6
+M17 [Details of deaths reported during the month with probable causes:],17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,3. Above 55 yrs.,73,14,1,21,NA,NA,27,1,NA,NA,NA,9
+M17 [Details of deaths reported during the month with probable causes:],17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,4. Total,198,40,5,84,2,NA,47,2,NA,NA,2,16
+M17 [Details of deaths reported during the month with probable causes:],17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,1. 6-14 yrs,22,1,NA,13,NA,NA,6,NA,NA,NA,NA,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,2. 15-55 yrs.,357,20,12,126,5,NA,116,12,1,1,2,62
+M17 [Details of deaths reported during the month with probable causes:],17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,3. Above 55 yrs.,273,20,8,133,4,NA,61,6,NA,3,9,29
+M17 [Details of deaths reported during the month with probable causes:],17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,4. Total,652,41,20,272,9,NA,183,18,1,4,11,93
+M17 [Details of deaths reported during the month with probable causes:],17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,1. 6-14 yrs,68,3,5,47,2,NA,3,2,1,NA,NA,5
+M17 [Details of deaths reported during the month with probable causes:],17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,2. 15-55 yrs.,640,80,49,173,18,NA,152,19,6,17,10,116
+M17 [Details of deaths reported during the month with probable causes:],17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,3. Above 55 yrs.,1016,146,130,143,36,NA,260,32,7,24,34,204
+M17 [Details of deaths reported during the month with probable causes:],17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,4. Total,1724,229,184,363,56,NA,415,53,14,41,44,325
+M17 [Details of deaths reported during the month with probable causes:],17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,1. 6-14 yrs,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,2. 15-55 yrs.,14,2,1,3,NA,NA,6,NA,1,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,3. Above 55 yrs.,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,4. Total,17,2,1,5,NA,NA,7,NA,1,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,1. 6-14 yrs,85,2,NA,63,1,NA,13,1,1,1,NA,3
+M17 [Details of deaths reported during the month with probable causes:],17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,2. 15-55 yrs.,320,42,8,55,12,NA,143,2,NA,1,2,55
+M17 [Details of deaths reported during the month with probable causes:],17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,3. Above 55 yrs.,196,51,6,16,7,NA,85,1,NA,4,1,25
+M17 [Details of deaths reported during the month with probable causes:],17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,4. Total,601,95,14,134,20,NA,241,4,1,6,3,83
+M17 [Details of deaths reported during the month with probable causes:],17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,1. 6-14 yrs,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,2. 15-55 yrs.,56,3,1,8,NA,NA,23,1,NA,NA,NA,20
+M17 [Details of deaths reported during the month with probable causes:],17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,3. Above 55 yrs.,5,NA,NA,2,NA,NA,3,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,4. Total,62,3,1,11,NA,NA,26,1,NA,NA,NA,20
+M17 [Details of deaths reported during the month with probable causes:],17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,1. 6-14 yrs,27,1,3,8,1,NA,9,1,1,NA,1,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,2. 15-55 yrs.,861,88,60,232,48,NA,183,30,13,7,41,159
+M17 [Details of deaths reported during the month with probable causes:],17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,3. Above 55 yrs.,1700,229,129,446,46,NA,296,41,66,30,78,339
+M17 [Details of deaths reported during the month with probable causes:],17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,4. Total,2588,318,192,686,95,NA,488,72,80,37,120,500
+M17 [Details of deaths reported during the month with probable causes:],17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,1. 6-14 yrs,26,1,NA,15,1,NA,8,NA,NA,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,2. 15-55 yrs.,296,37,15,34,8,NA,125,28,NA,NA,3,46
+M17 [Details of deaths reported during the month with probable causes:],17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,3. Above 55 yrs.,304,43,50,16,3,NA,136,11,1,NA,13,31
+M17 [Details of deaths reported during the month with probable causes:],17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,4. Total,626,81,65,65,12,NA,269,39,1,NA,16,78
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,1. 6-14 yrs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,2. 15-49 yrs,4,NA,NA,1,NA,NA,3,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,3. Above 49 yrs.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,4. Total,4,NA,NA,1,NA,NA,3,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,1. 6-14 yrs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,2. 15-49 yrs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,3. Above 49 yrs.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,4. Total,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,1. 6-14 yrs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,2. 15-49 yrs,42,10,NA,23,NA,NA,5,NA,NA,NA,NA,4
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,3. Above 49 yrs.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,4. Total,42,10,NA,23,NA,NA,5,NA,NA,NA,NA,4
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,1. 6-14 yrs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,2. 15-49 yrs,27,7,NA,8,NA,NA,8,NA,NA,NA,1,3
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,3. Above 49 yrs.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,4. Total,27,7,NA,8,NA,NA,8,NA,NA,NA,1,3
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,1. 6-14 yrs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,2. 15-49 yrs,26,4,1,17,NA,1,2,NA,NA,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,3. Above 49 yrs.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,4. Total,26,4,1,17,NA,1,2,NA,NA,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,1. 6-14 yrs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,2. 15-49 yrs,232,27,5,63,4,1,20,71,2,NA,2,37
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,3. Above 49 yrs.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,4. Total,232,27,5,63,4,1,20,71,2,NA,2,37
+M17 [Details of deaths reported during the month with probable causes:],17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,1. 6-14 yrs,23,NA,4,15,1,NA,2,NA,NA,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,2. 15-55 yrs.,720,25,59,341,81,NA,99,3,1,NA,10,101
+M17 [Details of deaths reported during the month with probable causes:],17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,3. Above 55 yrs.,159,11,22,44,11,NA,31,1,1,NA,5,33
+M17 [Details of deaths reported during the month with probable causes:],17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,4. Total,902,36,85,400,93,NA,132,4,2,NA,15,135
+M17 [Details of deaths reported during the month with probable causes:],17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,1. 6-14 yrs,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,2. 15-55 yrs.,50,NA,1,2,14,NA,19,1,NA,NA,11,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,3. Above 55 yrs.,9,1,2,2,1,NA,2,NA,NA,NA,1,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,4. Total,61,3,3,4,15,NA,21,1,NA,NA,12,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,1. 6-14 yrs,2,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+M17 [Details of deaths reported during the month with probable causes:],17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,2. 15-55 yrs.,12,NA,1,1,3,NA,4,NA,NA,NA,1,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,3. Above 55 yrs.,2,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,1
+M17 [Details of deaths reported during the month with probable causes:],17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,4. Total,16,1,1,1,4,NA,4,NA,NA,NA,2,3
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,1. 6-14 yrs,176,14,85,69,NA,NA,6,NA,NA,NA,NA,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,2. 15-55 yrs.,1653,174,5,1194,11,NA,140,6,2,NA,5,116
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,3. Above 55 yrs.,1147,230,3,731,5,NA,83,11,15,NA,4,65
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,4. Total,2976,418,93,1994,16,NA,229,17,17,NA,9,183
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,1. 6-14 yrs,60,7,10,32,NA,NA,9,NA,NA,NA,NA,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,2. 15-55 yrs.,1297,159,38,500,13,NA,313,35,NA,2,12,225
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,3. Above 55 yrs.,1305,236,56,380,13,NA,340,51,12,1,27,189
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,4. Total,2662,402,104,912,26,NA,662,86,12,3,39,416
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,1. 6-14 yrs,24,NA,13,1,1,NA,3,4,NA,NA,NA,2
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,2. 15-55 yrs.,1022,28,359,110,69,NA,242,107,2,11,14,80
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,3. Above 55 yrs.,748,11,212,46,12,NA,231,133,17,18,53,15
+M17 [Details of deaths reported during the month with probable causes:],17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,4. Total,1794,39,584,157,82,NA,476,244,19,29,67,97
